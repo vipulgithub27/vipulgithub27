@@ -1,6 +1,5 @@
 
-![analyst](https://github.com/user-attachments/assets/1aa3ab9f-f0bc-4bf6-acd3-968d701c0ed8)
-
+![Business Analyst Banner](https://github.com/user-attachments/assets/2cf84d3b-190c-4a6b-9c80-79f40e598573)
 
 # 👋 Hi, I'm Vipul
 
