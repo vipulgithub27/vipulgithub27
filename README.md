@@ -1,3 +1,7 @@
+
+![analyst](https://github.com/user-attachments/assets/1aa3ab9f-f0bc-4bf6-acd3-968d701c0ed8)
+
+
 # 👋 Hi, I'm Vipul
 
 I’m a **Business Analyst** with over three years of experience and an MSc in **Business Analytics** from the University of Galway, Ireland. With a background in **Mechanical Engineering**, I combine analytical problem-solving with technical expertise to bridge the gap between data and impactful business strategies.
