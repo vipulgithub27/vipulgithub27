@@ -7,7 +7,7 @@ I’m a **Business Analyst** with over three years of experience and an MSc in *
 
 ## 🔍 Professional Journey
 
-My career includes roles such as **Digital Business Analyst** at **Agile Viral** and **Data Analyst** at **Navitasys India Pvt. Ltd.**, where I led projects like developing predictive models, creating real-time dashboards, and optimizing processes to drive measurable results.  
+My career includes roles such as **Product Analyst** at **Agile Viral** and **Data Analyst** at **Navitasys India Pvt. Ltd.**, where I led projects like developing predictive models, creating real-time dashboards, and optimizing processes to drive measurable results.  
 **Career Highlights**:  
 - Representing my university at an international **Datathon** in France.  
 - Building a **machine learning credit scoring model** with 82% accuracy.
