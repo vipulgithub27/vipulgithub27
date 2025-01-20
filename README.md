@@ -9,6 +9,7 @@ I’m a **Business Analyst** with over three years of experience and an MSc in *
 
 My career includes roles such as **Product Analyst** at **Agile Viral** and **Data Analyst** at **Navitasys India Pvt. Ltd.**, where I led projects like developing predictive models, creating real-time dashboards, and optimizing processes to drive measurable results.  
 **Career Highlights**:  
+- Developed a database system to track scrap data in Navitasys, reducing scrap by 28% and saving €34,000 annually.
 - Representing my university at an international **Datathon** in France.  
 - Building a **machine learning credit scoring model** with 82% accuracy.
 
