@@ -26,6 +26,14 @@ I am passionate about leveraging **technology** to solve real-world problems, co
 
 When I’m not exploring business strategies or diving into **AI trends**, you’ll find me reading **self-help books**, studying **startup ecosystems**, or connecting with other **data professionals** to stay ahead of industry trends.
 
+##
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+##
+
 ## 🚀 Let’s Collaborate!
 
 Let’s work together to turn **data** into actionable insights and drive **innovation**! Feel free to reach out and connect.
