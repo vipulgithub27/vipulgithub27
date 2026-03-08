@@ -1,4 +1,4 @@
-
+https://github.com/vipulgithub27/vipulgithub27/blob/03b46b9ceba2409b9d51c724655b19117f3ee846/banner.jpg
 # Hi, I'm Vipul 👋
 
 I'm an **Azure Data Engineer** with 4+ years of experience building end-to-end data pipelines, lakehouse architectures, and BI solutions across retail and manufacturing domains. MSc in Business Analytics from the University of Galway, Ireland, with a foundation in Mechanical Engineering.
