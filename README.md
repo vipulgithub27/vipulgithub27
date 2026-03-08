@@ -1,5 +1,4 @@
 
-![Business Analyst Banner](https://github.com/user-attachments/assets/2cf84d3b-190c-4a6b-9c80-79f40e598573)
 # Hi, I'm Vipul 👋
 
 I'm an **Azure Data Engineer** with 4+ years of experience building end-to-end data pipelines, lakehouse architectures, and BI solutions across retail and manufacturing domains. MSc in Business Analytics from the University of Galway, Ireland, with a foundation in Mechanical Engineering.
